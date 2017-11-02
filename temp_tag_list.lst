@@ -1,2 +1,6 @@
 tag1
+<<<<<<< HEAD
 ThisTagFromLocalRepo
+=======
+tagCreatedInGIT
+>>>>>>> 8bca211d17b5cc4a59356eeaf3ef56849cab15a7
